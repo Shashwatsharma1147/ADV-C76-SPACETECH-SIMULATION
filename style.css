@@ -1,0 +1,102 @@
+#videos{
+    text-align: center;
+}
+#Area51MP{
+    height: 100%;
+    width: 100%;
+    height: 620px;
+    width: 999px;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#WT{
+    width: 250px;
+    height: 280px;
+    border: 10px;
+}#About_A51 {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: chartreuse;
+    font-size: 30px;
+    background-image: url(500.jpg);
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#BT{
+    font-size: 40px;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+h3 {
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 2px 2px #fa5aed;
+}
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: darkgrey;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+.artist{
+    height: 350px;
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#Gallery{
+    text-align: center;
+    background-image: url(CalculatingUnfinishedAmericanbadger-max-1mb.gif);
+}
+#MIP{
+    color:blanchedalmond;
+    font-size: 40px;
+}
+#location{
+    background-image: url(BGENDDDDD.jpg)
+}
